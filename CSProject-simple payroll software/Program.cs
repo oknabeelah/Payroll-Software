@@ -1,7 +1,7 @@
 ﻿using System;
 
 namespace PayrollSoftware
-{
+{  //making sure it works gh
     class Staff 
     {
         //contains info bout each staff
