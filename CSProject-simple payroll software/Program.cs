@@ -5,7 +5,22 @@ namespace PayrollSoftware
     class Staff 
     {
         //contains info bout each staff
-        //contains CalculatePay() 
+        //contains CalculatePay() a virtual method to calculate worker pay
+        private float hourlyRate;
+        private int hWorkedl;
+
+        //public autoimplemented properties of the class
+        public float TotalPay {  get; protected set; }
+        public float BasicPay { get; private set; }
+        public string NameOfStaff { get; private set; }
+
+
+        public Staff (string name, float rate)
+        {
+            NameOfStaff = name;
+            BasicPay = rate;
+        } //hehee 
+
     }
 
     class Manager : Staff 

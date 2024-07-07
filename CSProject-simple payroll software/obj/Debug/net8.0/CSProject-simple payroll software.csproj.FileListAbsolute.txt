@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\Github\Payroll-Software\CSProject-simple payroll software\obj\Debug\net8.0\CSProject-simple payroll software.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Github\Payroll-Software\CSProject-simple payroll software\obj\Debug\net8.0\CSProject-simple payroll software.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Github\Payroll-Software\CSProject-simple payroll software\obj\Debug\net8.0\CSProject-simple payroll software.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Github\Payroll-Software\CSProject-simple payroll software\obj\Debug\net8.0\CSProject-simple payroll software.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Github\Payroll-Software\CSProject-simple payroll software\obj\Debug\net8.0\CSProject-simple payroll software.sourcelink.json

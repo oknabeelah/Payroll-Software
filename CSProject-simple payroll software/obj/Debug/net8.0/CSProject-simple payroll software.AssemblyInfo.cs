@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSProject-simple payroll software")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+732b04373d0de1b1b99d3ac1b33ad3a10b6ed9dd")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSProject-simple payroll software")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSProject-simple payroll software")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
